@@ -1,0 +1,10 @@
+.rounds {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20%;
+}
+
+.rounds > .round {
+  margin: 3.4%;
+}

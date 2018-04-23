@@ -1,0 +1,12 @@
+.todos {
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+}
+
+.add-task {
+  margin-top: 10px;
+  width: 90%;
+}

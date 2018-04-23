@@ -1,0 +1,14 @@
+.round {
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  padding: 8px;
+  border: 2px solid #666;
+  text-align: center;
+  font: 32px sans-serif;
+}
+
+
+.activeOrComplete {
+  background-color: #22fcf1;
+}

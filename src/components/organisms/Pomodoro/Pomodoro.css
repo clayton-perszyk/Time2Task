@@ -1,0 +1,8 @@
+.tite, .message, .timer {
+  text-align: center;
+}
+
+.rounds, .pomodoro .button {
+  width: 100%;
+  margin: 0 auto;
+}

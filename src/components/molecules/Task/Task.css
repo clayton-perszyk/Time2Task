@@ -1,0 +1,13 @@
+.task {
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+}
+
+.task > .checkbox {
+  position: absolute;
+  right: 90%;
+  top: 10%;
+  width: 1.5rem;
+  height: 1.5rem;
+}

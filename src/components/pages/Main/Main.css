@@ -1,0 +1,24 @@
+.main {
+  display: flex;
+  padding: 60px;
+}
+
+.todos {
+  padding-left: 2px;
+}
+
+.main .todos {
+  margin-left: 25px;
+}
+
+.main .pomodoro {
+  margin-right: 25px;
+}
+
+.main .todos .add-task {
+  width: 91%;
+}
+
+.title, input, button, .message {
+  font-family: Helvetica, sans-serif;
+}

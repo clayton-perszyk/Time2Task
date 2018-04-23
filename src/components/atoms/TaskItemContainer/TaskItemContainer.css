@@ -1,0 +1,11 @@
+.task-item-container {
+  width: 20rem;
+  height: 1rem;
+  border: 1px solid black;
+  padding: 0.5rem 0.5rem 0.5rem 2.2rem;
+}
+
+.completed {
+  text-decoration: line-through;
+  text-decoration-color: tomato;
+}
